@@ -2,7 +2,7 @@
 
 Welcome to **IG Tracker**! This tool is designed to help you manage your Instagram fans by providing insights into your followings and followers. You can learn more about us and install the tool at [IG Tracker](https://www.instafollowers.tech/).
 
-[IG Tracker](https://pub-00d7552c93044465bba1b8e50abcb06c.r2.dev/ig_tracker.png)
+![IG Tracker](https://pub-00d7552c93044465bba1b8e50abcb06c.r2.dev/ig_tracker.png)
 
 ## Features
 
